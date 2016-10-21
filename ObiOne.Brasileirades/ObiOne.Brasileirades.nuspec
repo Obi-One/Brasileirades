@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ObiOne.Brasileirades</id>
+    <version>1.0.1</version>
+    <title>ObiOne.Brasileirades</title>
+    <authors>rbrock</authors>
+    <owners>rbrock</owners>
+    <licenseUrl>https://raw.githubusercontent.com/Obi-One/Brasileirades/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Obi-One/Brasileirades</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pacote de ferramentas para tratar as especifidades brasileiras.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Brasil Telefone</tags>
+  </metadata>
+</package>
